@@ -6,15 +6,13 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue)](https://www.typescriptlang.org/)
 
-## ⚡ Quick Start (5 Minutes)
+## ⚡ Quick Start (2 Minutes)
 
 ```bash
-# 1. Install dependencies
-npm install
-cd frontend && npm install && cd ..
-cd backend && npm install && cd ..
+# 1. Install
+./install.sh
 
-# 2. Run the app
+# 2. Run
 npm run dev
 
 # 3. Open http://localhost:5173
@@ -22,7 +20,9 @@ npm run dev
 
 **That's it! The app is ready to use.** 🎉
 
-See [SETUP_AND_RUN.md](./SETUP_AND_RUN.md) for detailed instructions.
+📖 **See [QUICKSTART.md](./QUICKSTART.md) for step-by-step guide**
+
+Or read [SETUP_AND_RUN.md](./SETUP_AND_RUN.md) for detailed instructions.
 
 ## 🎯 What is IntelliDoc AI?
 
