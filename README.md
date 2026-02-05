@@ -6,6 +6,24 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue)](https://www.typescriptlang.org/)
 
+## ⚡ Quick Start (5 Minutes)
+
+```bash
+# 1. Install dependencies
+npm install
+cd frontend && npm install && cd ..
+cd backend && npm install && cd ..
+
+# 2. Run the app
+npm run dev
+
+# 3. Open http://localhost:5173
+```
+
+**That's it! The app is ready to use.** 🎉
+
+See [SETUP_AND_RUN.md](./SETUP_AND_RUN.md) for detailed instructions.
+
 ## 🎯 What is IntelliDoc AI?
 
 IntelliDoc AI is an enterprise-grade document analysis platform that uses AI to understand, extract, and visualize insights from complex documents through a conversational interface. Built with [Tambo AI](https://tambo.co)'s generative UI framework, it dynamically renders the perfect visualization for every query.
